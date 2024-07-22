@@ -14,7 +14,7 @@ following pages:
 - Admin page
 - Favorite page
 
-> **Note!**<br>
+> [!NOTE]
 > Not all requirements are reflected in mockups! If you meet any requirements marked by `*` that are not in mockup
 > you can choose the place and appearance you consider is the best and most logical.
 
